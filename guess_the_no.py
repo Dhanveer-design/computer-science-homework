@@ -1,6 +1,6 @@
 import random
 
-secretNumber = random.randint(1, 100)
+secretNumber = random.randint(1, 200)
 
 guess = 0
 attempts = 0
